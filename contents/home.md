@@ -26,6 +26,7 @@
 8.山东省自主创新专项:支持业务协同的云制造服务平台研发及产业化(2013.7-2015.7) 参与
 9.国家863课题:中小企业云制造服务平台交易服务技术(2011. 4-2012.9) 参与
 10.国 家 自 然 科 学 基 金:应用虚拟化若干关键问题研究(2008.1-2010.12)参与
+
 ####近5年部分学术论文
 2025年
 1.	Kaiyue Liu , Lei Wu∗, Mingzhe Yu, Xiaole Liu, Yajie Xu ∗,, Xiangxu Meng ArtTypo: Multi-Level Controlled Artistic Typography with Iterative Feedback, ICME2025

@@ -109,4 +109,13 @@ section .main-body{
     }
 }
 
+/* 调整section间距 */
+section.section-spacing {
+    margin-top: 1rem !important;  /* 增大数值以便观察效果 */
+    margin-bottom: 1rem !important;
+    padding-top: 1rem !important; /* 添加内边距作为双重保障 */
+    padding-bottom: 1rem !important;
+}
+
+
 
